@@ -1,6 +1,7 @@
 # Dominik Zalewski Portfolio
 Hi,
 I'm Dominik and here are my portoflio webbsite. You can find some data science projects. If you're interesting in one of them, just click on header to show whole project on my GitHub. Thanks for time! Enjoy :)
+	---
 
 # [Project 4: Finding Heavy Traffic Indicators on I-94](https://github.com/doxenix/projects/blob/main/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb)
 The project is devoted to examiane traffic on I-94 Interstate highway which connecting the Great Lakes and northern Great Plains regions of the United States.

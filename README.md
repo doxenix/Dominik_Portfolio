@@ -1,7 +1,13 @@
 # Dominik Zalewski Portfolio
 Hi,
-I'm Dominik and here are my portoflio webbsite. You can find some data science projects. If you're interesting in one of them, just click on header to show whole project on my GitHub. Thanks for time! Enjoy :)
-	
+I'm Dominik and here are my portoflio website. You can find some data science projects. If you're interesting in one of them, just click on header to show whole project on my GitHub. Thanks for time! Enjoy :)
+
+# [Project 5: Storytelling Data Visualization on Exchange Rates](https://github.com/doxenix/projects/blob/main/EURO_PLN%20and%20EURO_USD%20plots.ipynb)
+We will take a look at data set with Daily Exchange Rates per Euro 1999-2021. We can find here comparison to most of world values.
+
+We will create 2 plots using matplotlib library, one with currency fluctuations during financial crisis and COVID-19 in EURO/USD and second one in EURO/PLN.
+
+![](/images/euro-pln.png)
 
 # [Project 4: Finding Heavy Traffic Indicators on I-94](https://github.com/doxenix/projects/blob/main/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb)
 The project is devoted to examiane traffic on I-94 Interstate highway which connecting the Great Lakes and northern Great Plains regions of the United States.

@@ -1,6 +1,6 @@
 # Dominik Zalewski Portfolio
 Hi,
-I'm Dominik and here are my portoflio website. You can find some data science projects. If you're interesting in one of them, just click on header to show whole project on my GitHub. Thanks for time! Enjoy :)
+I'm Dominik and welcome to my portoflio website. You can find some data science projects. If you're interesting in one of them, just click on header to show whole project on my GitHub. Thanks for time! Enjoy :)
 
 # [Project 5: Storytelling Data Visualization on Exchange Rates](https://github.com/doxenix/projects/blob/main/EURO_PLN%20and%20EURO_USD%20plots.ipynb)
 We will take a look at data set with Daily Exchange Rates per Euro 1999-2021. We can find here comparison to most of world values.

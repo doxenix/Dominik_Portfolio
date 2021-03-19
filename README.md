@@ -7,7 +7,7 @@ We will take a look at data set with Daily Exchange Rates per Euro 1999-2021. We
 
 We will create 2 plots using matplotlib library, one with currency fluctuations during financial crisis and COVID-19 in EURO/USD and second one in EURO/PLN.
 
-![](/images/euro-pln 1.png)
+![](/images/euro-pln_1.png)
 
 # [Project 4: Finding Heavy Traffic Indicators on I-94](https://github.com/doxenix/projects/blob/main/Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb)
 The project is devoted to examiane traffic on I-94 Interstate highway which connecting the Great Lakes and northern Great Plains regions of the United States.

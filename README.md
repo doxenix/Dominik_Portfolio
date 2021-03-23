@@ -2,6 +2,15 @@
 Hi,
 I'm Dominik and welcome to my portoflio website. You can find some data science projects. If you're interesting in one of them, just click on header to show whole project on my GitHub. Thanks for time! Enjoy :)
 
+# [Project 6: Clean And Analyze Employee Exit Surveys](https://github.com/doxenix/projects/blob/main/Clean%20And%20Analyze%20Employee%20Exit%20Surveys.ipynb)
+In this guided project, we will take a look on employee exit surveys from employees of the [Department of Education, Training and Employment](https://en.wikipedia.org/wiki/Department_of_Education_(Queensland)) (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia.
+
+Our aim is to answer on following questions:
+* Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
+* Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
+
+![](/images/survey.png)
+
 # [Project 5: Storytelling Data Visualization on Exchange Rates](https://github.com/doxenix/projects/blob/main/EURO_PLN%20and%20EURO_USD%20plots%20(2).ipynb)
 We will take a look at data set with Daily Exchange Rates per Euro 1999-2021. We can find here comparison to most of world currencies.
 

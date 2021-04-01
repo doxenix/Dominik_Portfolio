@@ -2,6 +2,11 @@
 Hi,
 I'm Dominik and welcome to my portoflio website. You can find some data science projects. If you're interesting in one of them, just click on header to show whole project on my GitHub. Thanks for time! Enjoy :)
 
+# [Project 7: Analyzing NYC High School Data](https://github.com/doxenix/projects/blob/main/Schools.ipynb)
+We'll investigate some data sets about NYC High Schools. Our aim is to find if there is a correlation between some social factors which can contribute to higher or lower average SAT score.
+
+![](/images/schoolds.png)
+
 # [Project 6: Clean And Analyze Employee Exit Surveys](https://github.com/doxenix/projects/blob/main/Clean%20And%20Analyze%20Employee%20Exit%20Surveys.ipynb)
 In this guided project, we will take a look on employee exit surveys from employees of the [Department of Education, Training and Employment](https://en.wikipedia.org/wiki/Department_of_Education_(Queensland)) (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia.
 

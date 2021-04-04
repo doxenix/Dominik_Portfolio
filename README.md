@@ -7,7 +7,7 @@ In this project we're going to explore dataset of Star Wars Survey, which contai
 
 Our aim is to answer on question about. We'll also try to find any interesting patterns.
 
-![](/images/star_wars.png)
+![](/images/star_wars.jpg)
 
 
 # [Project 7: Analyzing NYC High School Data](https://github.com/doxenix/projects/blob/main/Schools.ipynb)

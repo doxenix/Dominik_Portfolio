@@ -2,6 +2,14 @@
 Hi,
 I'm Dominik and welcome to my portoflio website. You can find some data science projects. If you're interesting in one of them, just click on header to show whole project on my GitHub. Thanks for time! Enjoy :)
 
+# [Project 8: Star Wars Survey](https://github.com/doxenix/projects/blob/main/Star%20Wars%20survey.ipynb)
+In this project we're going to explore dataset of Star Wars Survey, which contains respondetns' answers about Star Wars. The survey has been carried out on July 2014 (before the release of Star Wars: The Force Awakens) and all data was collected by FiveThirtyEight team to answer on following question: "does the rest of America realize that “The Empire Strikes Back” is clearly the best of the bunch?"
+
+Our aim is to answer on question about. We'll also try to find any interesting patterns.
+
+![](/images/star_wars.png)
+
+
 # [Project 7: Analyzing NYC High School Data](https://github.com/doxenix/projects/blob/main/Schools.ipynb)
 We'll investigate some data sets about NYC High Schools. Our aim is to find if there is a correlation between some social factors which can contribute to higher or lower average SAT score.
 

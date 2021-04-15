@@ -2,6 +2,11 @@
 Hi,
 I'm Dominik and welcome to my portoflio website. You can find some data science projects. If you're interesting in one of them, just click on header to show whole project on my GitHub. Thanks for time! Enjoy :)
 
+# [Project 9: Analyzing CIA Factbook Data Using SQL](https://github.com/doxenix/projects/blob/main/sql_CIA_Factbook.ipynb)
+In this project, we'll work with data from the CIA World Factbook, a compendium of statistics about all of the countries on Earth. We'll use SQL in Jupyter Notebook to analyze data from this database.
+
+![](/images/cia_fact.JPG)
+
 # [Project 8: Star Wars Survey](https://github.com/doxenix/projects/blob/main/Star%20Wars.ipynb)
 In this project we're going to explore dataset of Star Wars Survey, which contains respondetns' answers about Star Wars. The survey has been carried out on July 2014 (before the release of Star Wars: The Force Awakens) and all data was collected by FiveThirtyEight team to answer on following question: "does the rest of America realize that “The Empire Strikes Back” is clearly the best of the bunch?"
 

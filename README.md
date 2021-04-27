@@ -2,6 +2,14 @@
 Hi,
 I'm Dominik and welcome to my portoflio website. You can find some data science projects. If you're interesting in one of them, just click on header to show whole project on my GitHub. Thanks for time! Enjoy :)
 
+# [Project 10: Chinook Records Store Database - Answering Business Questions using SQL](https://github.com/doxenix/projects/blob/main/Chinook_sql.ipynb)
+In this project we will be working with a modified version of a database called Chinook. The Chinook database contains information about a fictional digital music shop - a smaller version of iTunes.
+
+The database contains information about the artists, songs, and albums from the music shop, as well as information on the shop's employees, customers, and their purchases. This information is contained in eleven tables. Here is a schema diagram for the Chinook database:
+
+![](/images/chinook.png)
+
+
 # [Project 9: Analyzing CIA Factbook Data Using SQL](https://github.com/doxenix/projects/blob/main/sql_CIA_Factbook.ipynb)
 In this project, we'll work with data from the CIA World Factbook, a compendium of statistics about all of the countries on Earth. We'll use SQL in Jupyter Notebook to analyze data from this database.
 

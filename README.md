@@ -2,6 +2,15 @@
 Hi,
 I'm Dominik and welcome to my portoflio website. You can find some data science projects. If you're interesting in one of them, just click on header to show whole project on my GitHub. Thanks for time! Enjoy :)
 
+# [Project 11: Investigating Fandango Movie Ratings](https://github.com/doxenix/projects/blob/main/Fandango_ratings.ipynb)
+In October 2015, a data journalist named Walt Hickey analyzed movie ratings data and found strong evidence to suggest that Fandango's rating system was biased and dishonest (Fandango is an online movie ratings aggregator).
+
+Fandango displays a 5-star rating system on their website, where the minimum rating is 0 stars and the maximum is 5 stars. Hickey found that there's a significant discrepancy between the number of stars displayed to users and the actual rating, which he was able to find in the HTML of the page.
+
+In this project, we'll analyze more recent movie ratings data to determine whether there has been any change in Fandango's rating system after Hickey's analysis.
+
+![](/images/andango.png)
+
 # [Project 10: Chinook Records Store Database - Answering Business Questions using SQL](https://github.com/doxenix/projects/blob/main/Chinook_sql.ipynb)
 In this project we will be working with a modified version of a database called Chinook. The Chinook database contains information about a fictional digital music shop - a smaller version of iTunes.
 

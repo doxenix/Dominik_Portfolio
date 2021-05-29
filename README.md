@@ -9,7 +9,7 @@ Fandango displays a 5-star rating system on their website, where the minimum rat
 
 In this project, we'll analyze more recent movie ratings data to determine whether there has been any change in Fandango's rating system after Hickey's analysis.
 
-![](/images/andango.png)
+![](/images/fandango.png)
 
 # [Project 10: Chinook Records Store Database - Answering Business Questions using SQL](https://github.com/doxenix/projects/blob/main/Chinook_sql.ipynb)
 In this project we will be working with a modified version of a database called Chinook. The Chinook database contains information about a fictional digital music shop - a smaller version of iTunes.

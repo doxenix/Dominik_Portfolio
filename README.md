@@ -2,6 +2,11 @@
 Hi,
 I'm Dominik and welcome to my portoflio website. You can find some data science projects. If you're interesting in one of them, just click on header to show whole project on my GitHub. Thanks for time! Enjoy :)
 
+# [Project 12: Finding the Best Markets to Advertise In](https://github.com/dataquestio/solutions/blob/master/Mission310Solutions.ipynb)
+Let's assume that we're working for an an e-learning company that offers courses on programming. Most of our courses are on web and mobile development, but we also cover many other domains, like data science, game development, etc. We want to promote our product and we'd like to invest some money in advertisement. Our goal in this project is to find out the two best markets to advertise our product in.
+
+![](/images/best_markets.png)
+
 # [Project 11: Investigating Fandango Movie Ratings](https://github.com/doxenix/projects/blob/main/Fandango_ratings.ipynb)
 In October 2015, a data journalist named Walt Hickey analyzed movie ratings data and found strong evidence to suggest that Fandango's rating system was biased and dishonest (Fandango is an online movie ratings aggregator).
 

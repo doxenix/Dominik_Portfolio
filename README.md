@@ -2,8 +2,7 @@
 Hi,
 I'm Dominik and welcome to my portoflio website. You can find some data science projects. If you're interesting in one of them, just click on header to show whole project on my GitHub. Thanks for time! Enjoy :)
 
-# [Project 15: 
-Creating first machine learing model - Predicting Car Prices](https://github.com/doxenix/projects/blob/main/Predicting%20Car%20Prices.ipynb)
+# [Project 15: Creating first machine learing model - Predicting Car Prices](https://github.com/doxenix/projects/blob/main/Predicting%20Car%20Prices.ipynb)
 In this guided project, we'll practice the machine learning workflow, using the k-nearest neighbors algorithm. The data set we will be working with contains information on various cars. For each car we have information about the technical aspects of the vehicle such as the motor's displacement, the weight of the car, the miles per gallon, how fast the car accelerates, and more. We'll build model which will predcit car prices.
 
 ![](/images/cars_predict.png)

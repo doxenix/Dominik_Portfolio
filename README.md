@@ -2,6 +2,24 @@
 Hi,
 I'm Dominik and welcome to my portoflio website. You can find some data science projects. If you're interesting in one of them, just click on header to show whole project on my GitHub. Thanks for time! Enjoy :)
 
+# [Project 15: 
+Creating first machine learing model - Predicting Car Prices](https://github.com/doxenix/projects/blob/main/Predicting%20Car%20Prices.ipynb)
+In this guided project, we'll practice the machine learning workflow, using the k-nearest neighbors algorithm. The data set we will be working with contains information on various cars. For each car we have information about the technical aspects of the vehicle such as the motor's displacement, the weight of the car, the miles per gallon, how fast the car accelerates, and more. We'll build model which will predcit car prices.
+
+![](/images/cars_predict.png)
+
+# [Project 14: Winning Jeopardy](https://github.com/doxenix/projects/blob/main/Winning%20Jeopardy.ipynb)
+Jeopardy is a popular TV show in the US where participants answer questions to win money. It's been running for many years, and is a major force in popular culture.
+
+Let's imagine that you want to compete on Jeopardy, and you're looking for any way to win. In this project, we'll work with a dataset of Jeopardy questions to figure out some patterns in the questions that could help you win.
+
+![](/images/jeo.JPG)
+
+# [Project 13: Building a Spam Filter with Naive Bayes](https://github.com/doxenix/projects/blob/main/Building%20a%20Spam%20Filter%20with%20Naive%20Baye.ipynb)
+Nobody likes recieving spam. These kind of messages are very annoying. Using spam filter in our e-mail is commonly using and it very usefull thing. However, we may also got spam on our moblie phone by unwanted text message. In this guided project, we will analysys the dataset of 5,572 SMS messages that are already classified by humans. Our task is to "teach" the computer how to classify messages. To do that, we'll use the multinomial Naive Bayes algorithm.
+
+![](/images/sms.JPG)
+
 # [Project 12: Finding the Best Markets to Advertise In](https://github.com/dataquestio/solutions/blob/master/Mission310Solutions.ipynb)
 Let's assume that we're working for an an e-learning company that offers courses on programming. Most of our courses are on web and mobile development, but we also cover many other domains, like data science, game development, etc. We want to promote our product and we'd like to invest some money in advertisement. Our goal in this project is to find out the two best markets to advertise our product in.
 
